@@ -39,7 +39,7 @@ What leaves your machine: the rendered session transcripts and your memory files
 ## Setup
 
 ```bash
-git clone <this repository> oneiros && cd oneiros
+git clone https://github.com/AKINTECH-Driven/oneiros.git oneiros && cd oneiros
 cp oneiros.config.example.json oneiros.config.json
 ```
 
