@@ -1,0 +1,7 @@
+{
+ "project": "~/.claude/projects/-Users-you-Documents",
+ "memory": "~/.claude/projects/-Users-you-Documents/memory",
+ "protected": [
+  "profile.md"
+ ]
+}

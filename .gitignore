@@ -1,0 +1,7 @@
+runs/
+chains/
+state.json*
+oneiros.config.json
+__pycache__/
+*.pyc
+.DS_Store
